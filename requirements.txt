@@ -4,3 +4,4 @@ sounddevice
 Pillow
 numpy
 SpeechRecognition
+pyaudio
