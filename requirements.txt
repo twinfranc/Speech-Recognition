@@ -1,7 +1,6 @@
-streamlit>=1.0
-opencv-python-headless
+streamlit
+SpeechRecognition
 sounddevice
+opencv-python-headless
 Pillow
 numpy
-SpeechRecognition
-pyaudio
